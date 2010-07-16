@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Twitter JUnit integration
+Bundle-SymbolicName: junit.extensions.eclipse.twitter;singleton:=true
+Bundle-Version: 0.1.0.qualifier
+Bundle-Activator: junit.extensions.eclipse.twitter.TwitterActivator
+Bundle-Vendor: kompiro.org
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jdt.junit
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: lib/twitter4j-2.0.10.jar,
+ .

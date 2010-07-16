@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/junit.extensions.eclipse.twitter.feature_0.2.0.201001042326.jar" id="junit.extensions.eclipse.twitter.feature" version="0.2.0.201001042326">
+      <category name="twJUnit"/>
+   </feature>
+   <category-def name="twJUnit" label="twJUnit"/>
+</site>
